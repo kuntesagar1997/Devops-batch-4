@@ -4,4 +4,8 @@ git status
 git rm --cached commands.txt
 git commit -m
 git log
-git restore 
+git restore
+git log --oneline
+git log --oneline --pretty
+git config --global user.namr "kuntersagar1997"
+git config --global user.email "sagar@240697" 
